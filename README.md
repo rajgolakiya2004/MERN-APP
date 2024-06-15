@@ -1,1 +1,1 @@
-<h1>ECOMMERCE Website</h1>
+<h1>ECOMMERCE WEBSITE</h1>
